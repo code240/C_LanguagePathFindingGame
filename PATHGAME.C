@@ -2,7 +2,7 @@
 #include<dos.h>
 #include<stdio.h>
 #include<graphics.h>
-
+//main
 void main()
 {
 int gd=DETECT,gm,d,a,c,k,x,x1,y,y1,m;
